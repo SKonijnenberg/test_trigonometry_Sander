@@ -5,3 +5,6 @@ def circ_circum(r):
 
 def circ_area(r):
 	return pi*r**2
+
+def say_hello():
+	print('hello Sander')
