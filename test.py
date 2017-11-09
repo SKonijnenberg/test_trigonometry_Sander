@@ -12,5 +12,5 @@ def circ_area(r):
 def say_hello():
 	print('hello Sander')
 """
-Somewhere over the rainbow, way up high.
+Somewhere at the end of the rainbow there's a pot of gold.
 """
