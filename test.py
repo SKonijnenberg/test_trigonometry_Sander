@@ -8,3 +8,6 @@ def circ_area(r):
 
 def say_hello():
 	print('hello Sander')
+"""
+Somewhere over the rainbow, way up high.
+"""
