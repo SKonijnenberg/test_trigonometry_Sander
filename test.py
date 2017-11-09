@@ -1,3 +1,6 @@
+print("I add stuff at the top")
+
+
 from numpy import pi
 
 def circ_circum(r):
